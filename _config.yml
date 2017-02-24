@@ -1,0 +1,21 @@
+# Site settings
+title: Learning JS
+header-img: img/learnjs-bg.jpg
+email: tomhanson1985@gmail.com
+copyright_name: Learning JS
+description: "Documenting what I am learning and my personal JavaScript projects"
+baseurl: ""
+url: "http://learningjs.co.uk"
+twitter_username: mmmbop_
+github_username:  tomhanson
+facebook_username:  tom.hanson.796
+email_username:  tomhanson1985@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:title/
+paginate: 8
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
