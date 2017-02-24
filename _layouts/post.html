@@ -29,7 +29,9 @@ layout: default
 
                 <hr>
                 <p class="meta">Tagged in: {{ page.tags }}</p>
-                <p class="codepen text-muted">You can view my projects progress <a href="{{page.codepen }}" target="_blank">here</a></p>
+                {% if page.codepen %}
+                <p class="codepen text-muted">You can view the latest code <a href="{{page.codepen }}" target="_blank">here</a></p>
+                {% endif %}
                 <ul class="pager">
                     {% if page.previous.url %}
                     <li class="previous">
