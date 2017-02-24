@@ -14,8 +14,6 @@ header-img: "img/blank-space.jpg"
 <p>I've read an awesome book called <a href="https://github.com/getify/You-Dont-Know-JS" target="_blank" rel="noopener">You dont know JS</a> and also watched a few good training courses
 including numerous ones by <a href="http://wesbos.com/courses/" target="_blank" rel="noopener">Wes Bos</a> and <a href="https://reacttraining.com/online" target="_blank" rel="noopener">React Training</a> by Tyler McGinnis.</p>
 
-<a href="http://minesweeperonline.com/" target="_blank">test</a>
-
 <p>I also got sidetracker by a react project at work, so all in all a really busy few months! All of the above is good because:</p>
 
 <ul>
