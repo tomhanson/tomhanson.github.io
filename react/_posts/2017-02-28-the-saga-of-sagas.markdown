@@ -16,7 +16,7 @@ so even though this actually did work, something rang an alarm bell for me that 
 </p>
 <p>After thinking about this for a while I remembered something Wes Bos said in one of his Redux videos about using something called middleware and his recommendations were Redux Thunk &amp; Redux Sagas. This was a good starting point so I did some googling and Redux Saga seemed to come out on top based on the fact that it was using JavaScript generators(fancy new style JS), so I went for it!</p>
 <p>You can find the docs <a href="https://redux-saga.github.io/redux-saga/docs/ExternalResources.html" target="_blank" rel="noopener">here</a> and although they are incredibly in depth I did struggle with quite a bit of unfamiliar syntax to me</p>
-<p>At this point I was getting nowhere fast until I stumbled across <a href="https://www.youtube.com/watch?v=msx0Qiu8NxQ" target="_blank" rel="noopener">this</a>tutorial by a guy called Dave Kiss. It really helped me grasp some of the basics and after a brief twitter exchange for him to show me a few more niche things I ended up with a working saga! Success. </p>
+<p>At this point I was getting nowhere fast until I stumbled across <a href="https://www.youtube.com/watch?v=msx0Qiu8NxQ" target="_blank" rel="noopener">this</a> tutorial by a guy called Dave Kiss. It really helped me grasp some of the basics and after a brief twitter exchange for him to show me a few more niche things I ended up with a working saga! Success. </p>
 <p>I ended up with code looking like this:</p>
 <pre>
    const getPosts = state => state.posts;
