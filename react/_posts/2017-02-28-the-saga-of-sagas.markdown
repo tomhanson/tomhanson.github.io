@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "The Saga of Sagas"
+title:      "The saga of Sagas"
 subtitle:   "Category: React"
 date:       2017-02-28 09:00:00
 author:     "Tom Hanson"
