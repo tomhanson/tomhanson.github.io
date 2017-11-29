@@ -2,7 +2,7 @@
 layout:     post
 title:      "Batteries Empty"
 subtitle:   "Category: JavaScript"
-date:       2017-11-29 12:00:00
+date:       2017-11-28 12:00:00
 author:     "Tom Hanson"
 tags:       "JavaScript"
 categories: "javascript"
