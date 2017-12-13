@@ -9,7 +9,7 @@ categories: "javascript"
 header-img: "img/blank-space.jpg"
 ---
 
-<p>When I first learned about template literals I thought brilliant, a simple bit of code which replaces the basic string notation if needs be. how much toit could there possibly be!?</p>
+<p>When I first learned about template literals I thought brilliant, a simple bit of code which replaces the basic string notation if needs be. how much to it could there possibly be!?</p>
 <p>Then I watched the videos by Wes Bos about them and realised that as per usual...alot!</p>
 <p>Aside from writing strings with variables directly in them they have a number of other uses:</p>
 <ul>
