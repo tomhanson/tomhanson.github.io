@@ -18,7 +18,7 @@ header-img: "img/blank-space.jpg"
 <li>Tagging a string with a function which can run before the string is created, allowing you to manipulate it as you see fit.</li>
 </ul>
 
-<p>And to make it even better its really rather simple</p>
+<p>And to make it even better tagging a template literal is really rather simple</p>
 <pre>
 function taggedFunction(strings, ...values) {
     console.log(strings) //returns an array of the strings(including a blank one at the end). &nbsp;
